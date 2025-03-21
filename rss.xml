@@ -1,0 +1,40 @@
+<rss version="2.0">
+<channel>
+<!-- Prólogo -->
+<title>PORTFOLIO JAVIER GRANADOS</title>
+<link>https://javivx.github.io/Lenguajemarcas/#sobremi</link>
+<description> Hablo sobre mi y lo que hago </description>
+<category>paginainicio</category>
+<copyright>Derechos reservados</copyright>
+<language>es-es</language>
+<lastBuildDate> Viernes 21 Mar 2025 14:15:00 +0100</lastBuildDate>
+<webMaster>javimorales33004@gmail.com</webMaster>
+<!--  Noticias del canal  -->
+<item>
+<title>Sobre mí</title>
+<description> Hablo sobre mí</description>
+<link>https://javivx.github.io/Lenguajemarcas/#sobremi</link>
+<author>javimorales33004@gmail.com</author>
+<category>sobremi</category>
+<pubDate>Sun, 05 Dec 2021 12:25:00 +0100</pubDate>
+</item>
+
+<item>
+<title>Lo que aprendo en el ciclo</title>
+<description> Lo que aprendo a hacer </description>
+<link>https://javivx.github.io/Lenguajemarcas/#aprendo</link>
+<author>javimorales33004@gmail.com</author>
+<category>sobremi</category>
+<pubDate>Viernes 21 Mar 2025 14:15:00 +0100</pubDate>
+</item>
+
+<item>
+<title>otros</title>
+<description> Otras cosas</description>
+<link>https://javivx.github.io/Lenguajemarcas/#otros</link>
+<author>javimorales33004@gmail.com</author>
+<category>otros</category>
+<pubDate>Viernes 21 Mar 2025 14:15:00 +0100</pubDate>
+</item>
+</channel>
+</rss>
